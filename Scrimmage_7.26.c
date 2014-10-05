@@ -94,6 +94,9 @@ void getControls() {
 
 	}
 }
+
+
+//IMPORTANT: minimize number of called functions in task main()
 task main() {
 	waitForStart();
 	//autonomous();
